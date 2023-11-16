@@ -555,7 +555,7 @@
     )
     (pin "1" (uuid 16389fc8-da2e-4d44-8389-06bcf8921b77))
     (instances
-      (project "power_board_V0.1"
+      (project "smart_alarm_V0.1"
         (path "/6d660399-1d4e-4a8e-97d4-7c2e99e4e5f9/79109c2d-627b-48bd-bc37-0cbd7697e7aa"
           (reference "#PWR0503") (unit 1)
         )
@@ -586,7 +586,7 @@
     (pin "1" (uuid f4c8103f-df2b-44ec-b5d7-721162f0bad6))
     (pin "2" (uuid b82ed8f3-72bc-45d3-b452-1d60125b0419))
     (instances
-      (project "power_board_V0.1"
+      (project "smart_alarm_V0.1"
         (path "/6d660399-1d4e-4a8e-97d4-7c2e99e4e5f9/79109c2d-627b-48bd-bc37-0cbd7697e7aa"
           (reference "C503") (unit 1)
         )
@@ -623,7 +623,7 @@
     (pin "3" (uuid 7b28bad8-1ca3-4b63-a208-776b58829ba2))
     (pin "4" (uuid 76cbf46c-732c-4b1d-84fb-a567f40d1d09))
     (instances
-      (project "power_board_V0.1"
+      (project "smart_alarm_V0.1"
         (path "/6d660399-1d4e-4a8e-97d4-7c2e99e4e5f9/79109c2d-627b-48bd-bc37-0cbd7697e7aa"
           (reference "U502") (unit 1)
         )
@@ -649,7 +649,7 @@
     (pin "1" (uuid deed1117-ca08-417e-848b-297dd4c7daee))
     (pin "2" (uuid 48bed623-5e57-4984-a8bd-4993931d2a9b))
     (instances
-      (project "power_board_V0.1"
+      (project "smart_alarm_V0.1"
         (path "/6d660399-1d4e-4a8e-97d4-7c2e99e4e5f9/79109c2d-627b-48bd-bc37-0cbd7697e7aa"
           (reference "R503") (unit 1)
         )
@@ -675,7 +675,7 @@
     (pin "1" (uuid 7b43c0cd-f3e4-40d5-ba99-0d0acda4543f))
     (pin "2" (uuid 39a4a5d9-be9f-4c96-b62e-406fce0d03d8))
     (instances
-      (project "power_board_V0.1"
+      (project "smart_alarm_V0.1"
         (path "/6d660399-1d4e-4a8e-97d4-7c2e99e4e5f9/79109c2d-627b-48bd-bc37-0cbd7697e7aa"
           (reference "R501") (unit 1)
         )
@@ -700,7 +700,7 @@
     )
     (pin "1" (uuid 9074cb71-65a1-4473-8535-ceda49e79a82))
     (instances
-      (project "power_board_V0.1"
+      (project "smart_alarm_V0.1"
         (path "/6d660399-1d4e-4a8e-97d4-7c2e99e4e5f9/79109c2d-627b-48bd-bc37-0cbd7697e7aa"
           (reference "#PWR0502") (unit 1)
         )
@@ -726,7 +726,7 @@
     (pin "1" (uuid 67c2c3c8-aec8-45d6-aedd-a3f1be645264))
     (pin "2" (uuid 1e6cbc39-cd1b-429c-87e9-fe2ad26d3507))
     (instances
-      (project "power_board_V0.1"
+      (project "smart_alarm_V0.1"
         (path "/6d660399-1d4e-4a8e-97d4-7c2e99e4e5f9/79109c2d-627b-48bd-bc37-0cbd7697e7aa"
           (reference "C502") (unit 1)
         )
@@ -756,7 +756,7 @@
     )
     (pin "1" (uuid 476513d0-9528-4a3d-b535-637f9af49443))
     (instances
-      (project "power_board_V0.1"
+      (project "smart_alarm_V0.1"
         (path "/6d660399-1d4e-4a8e-97d4-7c2e99e4e5f9/79109c2d-627b-48bd-bc37-0cbd7697e7aa"
           (reference "TP4") (unit 1)
         )
@@ -781,7 +781,7 @@
     )
     (pin "1" (uuid 59c46109-befd-4776-b2d0-45708620f977))
     (instances
-      (project "power_board_V0.1"
+      (project "smart_alarm_V0.1"
         (path "/6d660399-1d4e-4a8e-97d4-7c2e99e4e5f9/79109c2d-627b-48bd-bc37-0cbd7697e7aa"
           (reference "TP5") (unit 1)
         )
@@ -807,7 +807,7 @@
     (pin "1" (uuid 987c633f-82a6-4be7-adb8-d69296e0b1aa))
     (pin "2" (uuid dfe3f34b-f8cd-4df3-89ab-686409c9d27e))
     (instances
-      (project "power_board_V0.1"
+      (project "smart_alarm_V0.1"
         (path "/6d660399-1d4e-4a8e-97d4-7c2e99e4e5f9/79109c2d-627b-48bd-bc37-0cbd7697e7aa"
           (reference "R502") (unit 1)
         )
@@ -832,7 +832,7 @@
     )
     (pin "1" (uuid bdf12ab7-ee2f-440b-b776-1f0c53d10b4d))
     (instances
-      (project "power_board_V0.1"
+      (project "smart_alarm_V0.1"
         (path "/6d660399-1d4e-4a8e-97d4-7c2e99e4e5f9/79109c2d-627b-48bd-bc37-0cbd7697e7aa"
           (reference "#PWR0501") (unit 1)
         )
@@ -863,7 +863,7 @@
     (pin "1" (uuid 4118ca42-cbf5-4007-8f00-3c853caebfae))
     (pin "2" (uuid eef0b708-d745-482f-aca0-70f6e8b031a8))
     (instances
-      (project "power_board_V0.1"
+      (project "smart_alarm_V0.1"
         (path "/6d660399-1d4e-4a8e-97d4-7c2e99e4e5f9/79109c2d-627b-48bd-bc37-0cbd7697e7aa"
           (reference "C501") (unit 1)
         )

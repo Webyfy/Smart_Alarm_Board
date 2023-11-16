@@ -1198,7 +1198,7 @@
     (pin "8" (uuid 7ab4f93b-7831-4a8f-9b4b-56c9b945a1d0))
     (pin "9" (uuid bb3ac417-eb79-4d20-9f46-f1da0c551f1c))
     (instances
-      (project "power_board_V0.1"
+      (project "smart_alarm_V0.1"
         (path "/6d660399-1d4e-4a8e-97d4-7c2e99e4e5f9/2f5e3b04-97db-4d8f-b6be-02d8e803125e"
           (reference "U201") (unit 1)
         )
@@ -1224,7 +1224,7 @@
     (pin "1" (uuid ea33f3c4-99e6-4668-9a7f-5b435e2638b9))
     (pin "2" (uuid 980ecc78-f4ec-4ac8-b1d6-40df27bfbe7d))
     (instances
-      (project "power_board_V0.1"
+      (project "smart_alarm_V0.1"
         (path "/6d660399-1d4e-4a8e-97d4-7c2e99e4e5f9/2f5e3b04-97db-4d8f-b6be-02d8e803125e"
           (reference "C202") (unit 1)
         )
@@ -1255,7 +1255,7 @@
     (pin "1" (uuid edba2a7b-f2d5-401d-83b6-9b8398bd0cd1))
     (pin "2" (uuid 0e2cc6c2-b6d2-4323-8380-8cc1586593b8))
     (instances
-      (project "power_board_V0.1"
+      (project "smart_alarm_V0.1"
         (path "/6d660399-1d4e-4a8e-97d4-7c2e99e4e5f9/2f5e3b04-97db-4d8f-b6be-02d8e803125e"
           (reference "R203") (unit 1)
         )
@@ -1286,7 +1286,7 @@
     (pin "1" (uuid 455fffde-3865-4890-87c4-205e6fe6ca82))
     (pin "2" (uuid 6d55d256-317b-46a9-917e-63296fa329a7))
     (instances
-      (project "power_board_V0.1"
+      (project "smart_alarm_V0.1"
         (path "/6d660399-1d4e-4a8e-97d4-7c2e99e4e5f9/2f5e3b04-97db-4d8f-b6be-02d8e803125e"
           (reference "R204") (unit 1)
         )
@@ -1317,7 +1317,7 @@
     (pin "1" (uuid 0f7739b0-8114-4dd9-9119-e2656861845c))
     (pin "2" (uuid 0cba41d4-3e37-47f5-881e-9634f62449b1))
     (instances
-      (project "power_board_V0.1"
+      (project "smart_alarm_V0.1"
         (path "/6d660399-1d4e-4a8e-97d4-7c2e99e4e5f9/2f5e3b04-97db-4d8f-b6be-02d8e803125e"
           (reference "D202") (unit 1)
         )
@@ -1348,7 +1348,7 @@
     (pin "1" (uuid 846b1cbe-2f17-400c-9b71-d4137f99efd4))
     (pin "2" (uuid 1105b03c-b420-4e89-b11b-31869a89a023))
     (instances
-      (project "power_board_V0.1"
+      (project "smart_alarm_V0.1"
         (path "/6d660399-1d4e-4a8e-97d4-7c2e99e4e5f9/2f5e3b04-97db-4d8f-b6be-02d8e803125e"
           (reference "J201") (unit 1)
         )
@@ -1379,7 +1379,7 @@
     (pin "1" (uuid 469fb2d6-3645-4d47-b3fa-87b24e96ae53))
     (pin "2" (uuid 45c2e29b-d07a-408c-94c9-22e81f774d58))
     (instances
-      (project "power_board_V0.1"
+      (project "smart_alarm_V0.1"
         (path "/6d660399-1d4e-4a8e-97d4-7c2e99e4e5f9/2f5e3b04-97db-4d8f-b6be-02d8e803125e"
           (reference "R205") (unit 1)
         )
@@ -1410,7 +1410,7 @@
     (pin "1" (uuid 808dc7aa-375e-4e1d-9eb6-b6ecdafa9a40))
     (pin "2" (uuid 76e373fb-3221-44ac-b148-05c15a086e99))
     (instances
-      (project "power_board_V0.1"
+      (project "smart_alarm_V0.1"
         (path "/6d660399-1d4e-4a8e-97d4-7c2e99e4e5f9/2f5e3b04-97db-4d8f-b6be-02d8e803125e"
           (reference "R206") (unit 1)
         )
@@ -1441,7 +1441,7 @@
     (pin "1" (uuid 85dab748-f54c-425d-b949-19f355156655))
     (pin "2" (uuid 0605d109-9bd8-4ae9-b4ab-7474e22248e9))
     (instances
-      (project "power_board_V0.1"
+      (project "smart_alarm_V0.1"
         (path "/6d660399-1d4e-4a8e-97d4-7c2e99e4e5f9/2f5e3b04-97db-4d8f-b6be-02d8e803125e"
           (reference "R202") (unit 1)
         )
@@ -1471,7 +1471,7 @@
     )
     (pin "1" (uuid c6602220-1319-4dce-b11c-b17d6da31484))
     (instances
-      (project "power_board_V0.1"
+      (project "smart_alarm_V0.1"
         (path "/6d660399-1d4e-4a8e-97d4-7c2e99e4e5f9/79109c2d-627b-48bd-bc37-0cbd7697e7aa"
           (reference "#PWR0502") (unit 1)
         )
@@ -1500,7 +1500,7 @@
     (pin "1" (uuid 4c0b7655-4db6-4a4e-9994-0ebefe184afb))
     (pin "2" (uuid 923f952f-0fc2-4d20-ad59-d61790e71ad1))
     (instances
-      (project "power_board_V0.1"
+      (project "smart_alarm_V0.1"
         (path "/6d660399-1d4e-4a8e-97d4-7c2e99e4e5f9/2f5e3b04-97db-4d8f-b6be-02d8e803125e"
           (reference "C201") (unit 1)
         )
@@ -1531,7 +1531,7 @@
     (pin "1" (uuid 70bf0188-046b-4d6f-97a9-445029419542))
     (pin "2" (uuid ef8672e3-6361-423d-a9f8-3ce50c66deb9))
     (instances
-      (project "power_board_V0.1"
+      (project "smart_alarm_V0.1"
         (path "/6d660399-1d4e-4a8e-97d4-7c2e99e4e5f9/2f5e3b04-97db-4d8f-b6be-02d8e803125e"
           (reference "R201") (unit 1)
         )
@@ -1562,7 +1562,7 @@
     (pin "1" (uuid a4a95a8d-2e3b-4f64-a299-8d3ccfa7fb1d))
     (pin "2" (uuid 4ddb199a-894f-4e4f-b4bc-8c6425e6dc01))
     (instances
-      (project "power_board_V0.1"
+      (project "smart_alarm_V0.1"
         (path "/6d660399-1d4e-4a8e-97d4-7c2e99e4e5f9/2f5e3b04-97db-4d8f-b6be-02d8e803125e"
           (reference "D201") (unit 1)
         )
@@ -1620,7 +1620,7 @@
     (pin "7" (uuid 960075d0-9da9-400f-a1a0-2d5bbb22ac24))
     (pin "8" (uuid bf35324f-f7af-499f-bddf-23963c6140a0))
     (instances
-      (project "power_board_V0.1"
+      (project "smart_alarm_V0.1"
         (path "/6d660399-1d4e-4a8e-97d4-7c2e99e4e5f9/2f5e3b04-97db-4d8f-b6be-02d8e803125e"
           (reference "Q201") (unit 1)
         )
@@ -1671,7 +1671,7 @@
     (pin "5" (uuid 3de7d577-8bbe-4edc-b26c-3d46fc849492))
     (pin "6" (uuid 82631b48-6b65-426e-a82e-07fe7bad787d))
     (instances
-      (project "power_board_V0.1"
+      (project "smart_alarm_V0.1"
         (path "/6d660399-1d4e-4a8e-97d4-7c2e99e4e5f9/2f5e3b04-97db-4d8f-b6be-02d8e803125e"
           (reference "IC201") (unit 1)
         )
@@ -1697,7 +1697,7 @@
     (pin "1" (uuid 4d8c61bb-15d1-4d13-8925-384ed97c2133))
     (pin "2" (uuid aa3fc4eb-d1df-4c19-b1d0-3242d6bb06c7))
     (instances
-      (project "power_board_V0.1"
+      (project "smart_alarm_V0.1"
         (path "/6d660399-1d4e-4a8e-97d4-7c2e99e4e5f9/2f5e3b04-97db-4d8f-b6be-02d8e803125e"
           (reference "TH1") (unit 1)
         )
@@ -1723,7 +1723,7 @@
     (pin "1" (uuid 0377abc1-d9b5-4303-8e78-1fd5d1cb4ad5))
     (pin "2" (uuid b81d23f4-9eac-447d-bca0-e87230b84974))
     (instances
-      (project "power_board_V0.1"
+      (project "smart_alarm_V0.1"
         (path "/6d660399-1d4e-4a8e-97d4-7c2e99e4e5f9/2f5e3b04-97db-4d8f-b6be-02d8e803125e"
           (reference "C203") (unit 1)
         )

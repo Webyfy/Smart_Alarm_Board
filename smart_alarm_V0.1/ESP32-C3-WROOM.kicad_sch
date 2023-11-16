@@ -917,7 +917,7 @@
           (reference "#PWR01") (unit 1)
         )
       )
-      (project "power_board_V0.1"
+      (project "smart_alarm_V0.1"
         (path "/6d660399-1d4e-4a8e-97d4-7c2e99e4e5f9/7b458d45-16d8-4976-9083-1e741c84407a"
           (reference "#PWR0406") (unit 1)
         )
@@ -952,7 +952,7 @@
     (pin "5" (uuid 91c86f1d-c784-431b-a04c-2d8c101d0ef0))
     (pin "6" (uuid 36689a73-a552-41d2-89d0-1d865882d3a4))
     (instances
-      (project "power_board_V0.1"
+      (project "smart_alarm_V0.1"
         (path "/6d660399-1d4e-4a8e-97d4-7c2e99e4e5f9/7b458d45-16d8-4976-9083-1e741c84407a"
           (reference "J403") (unit 1)
         )
@@ -982,7 +982,7 @@
           (reference "#PWR04") (unit 1)
         )
       )
-      (project "power_board_V0.1"
+      (project "smart_alarm_V0.1"
         (path "/6d660399-1d4e-4a8e-97d4-7c2e99e4e5f9/7b458d45-16d8-4976-9083-1e741c84407a"
           (reference "#PWR0408") (unit 1)
         )
@@ -1013,7 +1013,7 @@
     (pin "1" (uuid d8348559-7d0c-4803-8eb5-88d009b122e9))
     (pin "2" (uuid e0ab3e1e-3f65-4fed-874d-821773366f03))
     (instances
-      (project "power_board_V0.1"
+      (project "smart_alarm_V0.1"
         (path "/6d660399-1d4e-4a8e-97d4-7c2e99e4e5f9/7b458d45-16d8-4976-9083-1e741c84407a"
           (reference "JP401") (unit 1)
         )
@@ -1039,7 +1039,7 @@
     (pin "1" (uuid 671113c2-8daf-4d28-9a7f-ebeb7d26ec88))
     (pin "2" (uuid 796aed8e-7463-4b0a-b9da-10f1d8ca8ae9))
     (instances
-      (project "power_board_V0.1"
+      (project "smart_alarm_V0.1"
         (path "/6d660399-1d4e-4a8e-97d4-7c2e99e4e5f9/7b458d45-16d8-4976-9083-1e741c84407a"
           (reference "C402") (unit 1)
         )
@@ -1069,7 +1069,7 @@
           (reference "#PWR0204") (unit 1)
         )
       )
-      (project "power_board_V0.1"
+      (project "smart_alarm_V0.1"
         (path "/6d660399-1d4e-4a8e-97d4-7c2e99e4e5f9/7b458d45-16d8-4976-9083-1e741c84407a"
           (reference "#PWR0401") (unit 1)
         )
@@ -1104,7 +1104,7 @@
           (reference "#PWR01") (unit 1)
         )
       )
-      (project "power_board_V0.1"
+      (project "smart_alarm_V0.1"
         (path "/6d660399-1d4e-4a8e-97d4-7c2e99e4e5f9/7b458d45-16d8-4976-9083-1e741c84407a"
           (reference "#PWR0402") (unit 1)
         )
@@ -1139,7 +1139,7 @@
           (reference "#PWR0201") (unit 1)
         )
       )
-      (project "power_board_V0.1"
+      (project "smart_alarm_V0.1"
         (path "/6d660399-1d4e-4a8e-97d4-7c2e99e4e5f9/7b458d45-16d8-4976-9083-1e741c84407a"
           (reference "#PWR0404") (unit 1)
         )
@@ -1170,7 +1170,7 @@
     (pin "1" (uuid 508bb330-9227-4a4b-80b7-b70a6b743764))
     (pin "2" (uuid 933cffe1-2d44-4ffe-8eed-5e65d615dbe6))
     (instances
-      (project "power_board_V0.1"
+      (project "smart_alarm_V0.1"
         (path "/6d660399-1d4e-4a8e-97d4-7c2e99e4e5f9/7b458d45-16d8-4976-9083-1e741c84407a"
           (reference "R404") (unit 1)
         )
@@ -1201,7 +1201,7 @@
           (reference "R2") (unit 1)
         )
       )
-      (project "power_board_V0.1"
+      (project "smart_alarm_V0.1"
         (path "/6d660399-1d4e-4a8e-97d4-7c2e99e4e5f9/7b458d45-16d8-4976-9083-1e741c84407a"
           (reference "R403") (unit 1)
         )
@@ -1236,7 +1236,7 @@
           (reference "#PWR04") (unit 1)
         )
       )
-      (project "power_board_V0.1"
+      (project "smart_alarm_V0.1"
         (path "/6d660399-1d4e-4a8e-97d4-7c2e99e4e5f9/7b458d45-16d8-4976-9083-1e741c84407a"
           (reference "#PWR0411") (unit 1)
         )
@@ -1272,7 +1272,7 @@
           (reference "R201") (unit 1)
         )
       )
-      (project "power_board_V0.1"
+      (project "smart_alarm_V0.1"
         (path "/6d660399-1d4e-4a8e-97d4-7c2e99e4e5f9/7b458d45-16d8-4976-9083-1e741c84407a"
           (reference "R402") (unit 1)
         )
@@ -1307,7 +1307,7 @@
           (reference "#PWR05") (unit 1)
         )
       )
-      (project "power_board_V0.1"
+      (project "smart_alarm_V0.1"
         (path "/6d660399-1d4e-4a8e-97d4-7c2e99e4e5f9/7b458d45-16d8-4976-9083-1e741c84407a"
           (reference "#PWR0409") (unit 1)
         )
@@ -1342,7 +1342,7 @@
           (reference "#PWR0203") (unit 1)
         )
       )
-      (project "power_board_V0.1"
+      (project "smart_alarm_V0.1"
         (path "/6d660399-1d4e-4a8e-97d4-7c2e99e4e5f9/7b458d45-16d8-4976-9083-1e741c84407a"
           (reference "#PWR0410") (unit 1)
         )
@@ -1416,7 +1416,7 @@
           (reference "IC1") (unit 1)
         )
       )
-      (project "power_board_V0.1"
+      (project "smart_alarm_V0.1"
         (path "/6d660399-1d4e-4a8e-97d4-7c2e99e4e5f9/7b458d45-16d8-4976-9083-1e741c84407a"
           (reference "IC401") (unit 1)
         )
@@ -1451,7 +1451,7 @@
           (reference "#PWR0204") (unit 1)
         )
       )
-      (project "power_board_V0.1"
+      (project "smart_alarm_V0.1"
         (path "/6d660399-1d4e-4a8e-97d4-7c2e99e4e5f9/7b458d45-16d8-4976-9083-1e741c84407a"
           (reference "#PWR0405") (unit 1)
         )
@@ -1486,7 +1486,7 @@
     (pin "5" (uuid e649f8c0-4451-4830-9d78-10d64d9430bc))
     (pin "6" (uuid a9d4db9b-d1ac-4cf4-b766-b33ea5d4150d))
     (instances
-      (project "power_board_V0.1"
+      (project "smart_alarm_V0.1"
         (path "/6d660399-1d4e-4a8e-97d4-7c2e99e4e5f9/7b458d45-16d8-4976-9083-1e741c84407a"
           (reference "J401") (unit 1)
         )
@@ -1512,7 +1512,7 @@
     (pin "1" (uuid ac1eda14-9012-4c38-a119-02f748377656))
     (pin "2" (uuid 1d1a7166-494c-4195-8f57-2b842df511c7))
     (instances
-      (project "power_board_V0.1"
+      (project "smart_alarm_V0.1"
         (path "/6d660399-1d4e-4a8e-97d4-7c2e99e4e5f9/7b458d45-16d8-4976-9083-1e741c84407a"
           (reference "SW401") (unit 1)
         )
@@ -1542,7 +1542,7 @@
           (reference "#PWR0202") (unit 1)
         )
       )
-      (project "power_board_V0.1"
+      (project "smart_alarm_V0.1"
         (path "/6d660399-1d4e-4a8e-97d4-7c2e99e4e5f9/7b458d45-16d8-4976-9083-1e741c84407a"
           (reference "#PWR0412") (unit 1)
         )
@@ -1578,7 +1578,7 @@
           (reference "C1") (unit 1)
         )
       )
-      (project "power_board_V0.1"
+      (project "smart_alarm_V0.1"
         (path "/6d660399-1d4e-4a8e-97d4-7c2e99e4e5f9/7b458d45-16d8-4976-9083-1e741c84407a"
           (reference "C401") (unit 1)
         )
@@ -1613,7 +1613,7 @@
           (reference "#PWR0204") (unit 1)
         )
       )
-      (project "power_board_V0.1"
+      (project "smart_alarm_V0.1"
         (path "/6d660399-1d4e-4a8e-97d4-7c2e99e4e5f9/7b458d45-16d8-4976-9083-1e741c84407a"
           (reference "#PWR0415") (unit 1)
         )
@@ -1648,7 +1648,7 @@
           (reference "#PWR02") (unit 1)
         )
       )
-      (project "power_board_V0.1"
+      (project "smart_alarm_V0.1"
         (path "/6d660399-1d4e-4a8e-97d4-7c2e99e4e5f9/7b458d45-16d8-4976-9083-1e741c84407a"
           (reference "#PWR0403") (unit 1)
         )
@@ -1684,7 +1684,7 @@
           (reference "C201") (unit 1)
         )
       )
-      (project "power_board_V0.1"
+      (project "smart_alarm_V0.1"
         (path "/6d660399-1d4e-4a8e-97d4-7c2e99e4e5f9/7b458d45-16d8-4976-9083-1e741c84407a"
           (reference "C403") (unit 1)
         )
@@ -1720,7 +1720,7 @@
           (reference "C3") (unit 1)
         )
       )
-      (project "power_board_V0.1"
+      (project "smart_alarm_V0.1"
         (path "/6d660399-1d4e-4a8e-97d4-7c2e99e4e5f9/7b458d45-16d8-4976-9083-1e741c84407a"
           (reference "C404") (unit 1)
         )
@@ -1755,7 +1755,7 @@
           (reference "#PWR01") (unit 1)
         )
       )
-      (project "power_board_V0.1"
+      (project "smart_alarm_V0.1"
         (path "/6d660399-1d4e-4a8e-97d4-7c2e99e4e5f9/7b458d45-16d8-4976-9083-1e741c84407a"
           (reference "#PWR0416") (unit 1)
         )
@@ -1790,7 +1790,7 @@
           (reference "#PWR01") (unit 1)
         )
       )
-      (project "power_board_V0.1"
+      (project "smart_alarm_V0.1"
         (path "/6d660399-1d4e-4a8e-97d4-7c2e99e4e5f9/7b458d45-16d8-4976-9083-1e741c84407a"
           (reference "#PWR0407") (unit 1)
         )
@@ -1826,7 +1826,7 @@
           (reference "R1") (unit 1)
         )
       )
-      (project "power_board_V0.1"
+      (project "smart_alarm_V0.1"
         (path "/6d660399-1d4e-4a8e-97d4-7c2e99e4e5f9/7b458d45-16d8-4976-9083-1e741c84407a"
           (reference "R401") (unit 1)
         )
