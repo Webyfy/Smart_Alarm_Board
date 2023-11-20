@@ -132,7 +132,7 @@
         "min_via_diameter": 0.5,
         "solder_mask_clearance": 0.0,
         "solder_mask_min_width": 0.0,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
@@ -197,12 +197,7 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [
-      "lib_symbol_issues|1282700|812800|9998b844-1eed-41ad-b66d-bc4e7fd7d90f|00000000-0000-0000-0000-000000000000|||",
-      "lib_symbol_issues|1282700|812800|ec756d10-09a5-4075-83c6-040e699577ac|00000000-0000-0000-0000-000000000000|||",
-      "lib_symbol_issues|2082800|901700|b635e4a8-3648-4b12-a28e-5b5d6dc4d67c|00000000-0000-0000-0000-000000000000|||",
-      "lib_symbol_issues|2120900|1295400|67aac239-994b-4799-a482-bb11a58dd6a9|00000000-0000-0000-0000-000000000000|||"
-    ],
+    "erc_exclusions": [],
     "meta": {
       "version": 0
     },
@@ -453,7 +448,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "smart_alarm_V0.1.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
